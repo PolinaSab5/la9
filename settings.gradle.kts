@@ -13,5 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Laba9"
+rootProject.name = "laba9"
 include(":app")
+ 
